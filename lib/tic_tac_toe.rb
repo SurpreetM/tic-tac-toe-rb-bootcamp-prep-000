@@ -66,3 +66,4 @@ def current_player(board)
   current_player
 end 
 
+def won?
